@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "name": "Lumina Air Wireless Earbuds",
+    "brand": "LUMINA",
+    "tagline": "Studio sound. All day comfort.",
+    "price": 89.0,
+    "comparePrice": 149.0,
+    "rating": 4.8,
+    "reviewCount": 2341,
+    "totalRatings": 10021,
+    "stock": 7,
+    "sku": "LMN-AIR-001",
+    "shipsIn": "2\u20134 business days",
+    "badge": "Best Seller",
+    "seller": {
+      "name": "TechVault Store",
+      "rating": 4.6,
+      "totalSales": "12.4k"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=900&q=85",
+      "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=900&q=85",
+      "https://images.unsplash.com/photo-1608156639585-b3a776c9dd43?w=900&q=85",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900&q=85"
+    ],
+    "variants": {
+      "Color": [
+        {
+          "label": "Midnight Black",
+          "hex": "#1a1a1a"
+        },
+        {
+          "label": "Pearl White",
+          "hex": "#f5f4f0"
+        },
+        {
+          "label": "Storm Blue",
+          "hex": "#3a6fa8"
+        }
+      ],
+      "Size": [
+        "One Size"
+      ]
+    },
+    "highlights": [
+      {
+        "key": "Battery",
+        "value": "40 Hours Total"
+      },
+      {
+        "key": "Connectivity",
+        "value": "Bluetooth 5.3"
+      },
+      {
+        "key": "Water Resistance",
+        "value": "IPX5 Rated"
+      },
+      {
+        "key": "Driver Size",
+        "value": "10mm Custom"
+      },
+      {
+        "key": "ANC",
+        "value": "Adaptive Active"
+      },
+      {
+        "key": "Charging",
+        "value": "Wireless + USB-C"
+      }
+    ],
+    "features": [
+      "40hr battery",
+      "ANC",
+      "IPX5",
+      "Bluetooth",
+      "Wireless"
+    ],
+    "description": "Engineered for those who won't settle. Lumina Air delivers adaptive noise cancellation, transparency mode, and 40 hours of playtime \u2014 all in an ultra-light form that disappears the moment you put them on.",
+    "ratingBreakdown": {
+      "5": 1520,
+      "4": 521,
+      "3": 180,
+      "2": 64,
+      "1": 56
+    },
+    "ratingTags": [
+      "Great Sound",
+      "Comfortable Fit",
+      "Long Battery",
+      "Good Value"
+    ],
+    "reviews": [
+      {
+        "author": "Sarah K.",
+        "rating": 5,
+        "title": "Best earbuds I've owned",
+        "text": "These are genuinely the best earbuds I've ever owned. The ANC is incredible \u2014 blocks out everything on my commute.",
+        "date": "2 days ago",
+        "helpful": 9,
+        "images": [
+          "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=200&q=70",
+          "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=200&q=70"
+        ]
+      },
+      {
+        "author": "Marcus T.",
+        "rating": 5,
+        "title": "Worth every penny",
+        "text": "Sound quality blew me away. Battery life is as advertised. Been using for 3 months now daily and zero issues.",
+        "date": "1 week ago",
+        "helpful": 14,
+        "images": []
+      },
+      {
+        "author": "Priya M.",
+        "rating": 4,
+        "title": "Almost perfect",
+        "text": "Comfortable, great sound. App could use some polish but otherwise perfect for the price.",
+        "date": "2 weeks ago",
+        "helpful": 6,
+        "images": [
+          "https://images.unsplash.com/photo-1608156639585-b3a776c9dd43?w=200&q=70"
+        ]
+      }
+    ],
+    "deliveryDate": "Mon, 9 Jun",
+    "deliveryPin": "623514",
+    "similarProducts": [
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Apex Smart Watch Ultra",
+    "brand": "APEX",
+    "tagline": "Your performance, elevated.",
+    "price": 129.0,
+    "comparePrice": 219.0,
+    "rating": 4.7,
+    "reviewCount": 1875,
+    "totalRatings": 8210,
+    "stock": 4,
+    "sku": "APX-SWU-002",
+    "shipsIn": "1\u20133 business days",
+    "badge": "Limited Stock",
+    "seller": {
+      "name": "GadgetHub Official",
+      "rating": 4.8,
+      "totalSales": "28.1k"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=900&q=85",
+      "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=900&q=85",
+      "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=900&q=85",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=900&q=85"
+    ],
+    "variants": {
+      "Color": [
+        {
+          "label": "Obsidian",
+          "hex": "#1c1c2e"
+        },
+        {
+          "label": "Rose Gold",
+          "hex": "#c9796e"
+        },
+        {
+          "label": "Silver",
+          "hex": "#a8a8b8"
+        }
+      ],
+      "Band": [
+        "Silicone",
+        "Leather",
+        "Metal Link"
+      ]
+    },
+    "highlights": [
+      {
+        "key": "Display",
+        "value": "1.4\" AMOLED"
+      },
+      {
+        "key": "Battery",
+        "value": "7 Days"
+      },
+      {
+        "key": "GPS",
+        "value": "Built-in"
+      },
+      {
+        "key": "Water Resist",
+        "value": "5ATM"
+      },
+      {
+        "key": "Sensors",
+        "value": "HR, SpO2, Stress"
+      },
+      {
+        "key": "Rating",
+        "value": "MIL-STD-810G"
+      }
+    ],
+    "features": [
+      "Heart Rate",
+      "GPS",
+      "7-day battery",
+      "Bluetooth",
+      "Wireless"
+    ],
+    "description": "APEX Ultra tracks what matters most \u2014 your heart, your sleep, your goals. Military-grade durability meets surgical-grade sensors in the most complete health companion you'll ever wear.",
+    "ratingBreakdown": {
+      "5": 1200,
+      "4": 420,
+      "3": 155,
+      "2": 60,
+      "1": 40
+    },
+    "ratingTags": [
+      "Accurate GPS",
+      "Premium Build",
+      "Great Display",
+      "Comfortable"
+    ],
+    "reviews": [
+      {
+        "author": "James R.",
+        "rating": 5,
+        "title": "GPS is insanely accurate",
+        "text": "The GPS tracking is insanely accurate. Perfect for my morning runs. Sleep tracking changed everything.",
+        "date": "3 days ago",
+        "helpful": 22,
+        "images": [
+          "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200&q=70"
+        ]
+      },
+      {
+        "author": "Ayesha N.",
+        "rating": 5,
+        "title": "Game changer",
+        "text": "Sleep tracking changed how I approach recovery. This watch is a game changer. Build quality is premium.",
+        "date": "5 days ago",
+        "helpful": 18,
+        "images": []
+      },
+      {
+        "author": "Tom W.",
+        "rating": 4,
+        "title": "Almost 5 stars",
+        "text": "Build quality is phenomenal. Battery could be better with heavy GPS use, but day-to-day it's perfect.",
+        "date": "3 weeks ago",
+        "helpful": 11,
+        "images": [
+          "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=200&q=70",
+          "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=200&q=70"
+        ]
+      }
+    ],
+    "deliveryDate": "Tue, 10 Jun",
+    "deliveryPin": "623514",
+    "similarProducts": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Nova 20K Power Bank",
+    "brand": "NOVA",
+    "tagline": "Never run out. Ever.",
+    "price": 49.0,
+    "comparePrice": 79.0,
+    "rating": 4.9,
+    "reviewCount": 4102,
+    "totalRatings": 15300,
+    "stock": 23,
+    "sku": "NVA-20K-003",
+    "shipsIn": "2\u20135 business days",
+    "badge": "Top Rated",
+    "seller": {
+      "name": "PowerPro Supplies",
+      "rating": 4.5,
+      "totalSales": "45.2k"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=900&q=85",
+      "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=900&q=85",
+      "https://images.unsplash.com/photo-1563203369-26f2e4a5ccf7?w=900&q=85",
+      "https://images.unsplash.com/photo-1491933382434-500287f9b54b?w=900&q=85"
+    ],
+    "variants": {
+      "Color": [
+        {
+          "label": "Graphite",
+          "hex": "#2d2d35"
+        },
+        {
+          "label": "Cloud White",
+          "hex": "#f0efe8"
+        }
+      ],
+      "Capacity": [
+        "10,000 mAh",
+        "20,000 mAh"
+      ]
+    },
+    "highlights": [
+      {
+        "key": "Capacity",
+        "value": "20,000 mAh"
+      },
+      {
+        "key": "Output",
+        "value": "65W USB-C PD"
+      },
+      {
+        "key": "Ports",
+        "value": "4 Simultaneous"
+      },
+      {
+        "key": "Weight",
+        "value": "Under 300g"
+      },
+      {
+        "key": "Display",
+        "value": "LED Battery Meter"
+      },
+      {
+        "key": "Certified",
+        "value": "Airline Safe"
+      }
+    ],
+    "features": [
+      "65W Fast Charge",
+      "4 Ports",
+      "LED Display",
+      "USB-C",
+      "Portable"
+    ],
+    "description": "Nova 20K is the power bank you'll actually want to carry. Slim enough for your pocket, powerful enough to charge 4 devices simultaneously at full speed. Crystal-clear LED display shows exactly how much juice is left.",
+    "ratingBreakdown": {
+      "5": 3200,
+      "4": 610,
+      "3": 210,
+      "2": 42,
+      "1": 40
+    },
+    "ratingTags": [
+      "Fast Charging",
+      "Great Capacity",
+      "Compact Design",
+      "Good Value"
+    ],
+    "reviews": [
+      {
+        "author": "Lena F.",
+        "rating": 5,
+        "title": "Charged laptop on a flight!",
+        "text": "Charged my laptop AND phone on a 6-hour flight. Incredible product. The LED display is super accurate.",
+        "date": "1 day ago",
+        "helpful": 31,
+        "images": [
+          "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=200&q=70"
+        ]
+      },
+      {
+        "author": "David C.",
+        "rating": 5,
+        "title": "Full speed MacBook charging",
+        "text": "The 65W output is real \u2014 my MacBook charges at full speed. No compromises. Best power bank ever.",
+        "date": "4 days ago",
+        "helpful": 25,
+        "images": []
+      },
+      {
+        "author": "Mia S.",
+        "rating": 5,
+        "title": "Bought 3!",
+        "text": "Bought 3. One for home, work, and travel bag. Best purchase this year. Highly recommend to everyone.",
+        "date": "1 week ago",
+        "helpful": 19,
+        "images": [
+          "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=200&q=70",
+          "https://images.unsplash.com/photo-1563203369-26f2e4a5ccf7?w=200&q=70"
+        ]
+      }
+    ],
+    "deliveryDate": "Wed, 11 Jun",
+    "deliveryPin": "623514",
+    "similarProducts": [
+      4
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Velo Mechanical Keyboard",
+    "brand": "VELO",
+    "tagline": "Every keystroke, perfected.",
+    "price": 159.0,
+    "comparePrice": 239.0,
+    "rating": 4.9,
+    "reviewCount": 986,
+    "totalRatings": 4102,
+    "stock": 11,
+    "sku": "VLO-MKB-004",
+    "shipsIn": "3\u20135 business days",
+    "badge": "New Arrival",
+    "seller": {
+      "name": "KeyMaster Pro",
+      "rating": 4.9,
+      "totalSales": "8.7k"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=900&q=85",
+      "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=900&q=85",
+      "https://images.unsplash.com/photo-1595044426077-d36d9236d44a?w=900&q=85",
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=900&q=85"
+    ],
+    "variants": {
+      "Color": [
+        {
+          "label": "Space Gray",
+          "hex": "#6b6b75"
+        },
+        {
+          "label": "Cream",
+          "hex": "#e8e4d4"
+        },
+        {
+          "label": "Midnight",
+          "hex": "#18181f"
+        }
+      ],
+      "Switch": [
+        "Red (Linear)",
+        "Brown (Tactile)",
+        "Blue (Clicky)"
+      ]
+    },
+    "highlights": [
+      {
+        "key": "Layout",
+        "value": "TKL 87-Key"
+      },
+      {
+        "key": "Switches",
+        "value": "Hot-swappable"
+      },
+      {
+        "key": "Keycaps",
+        "value": "PBT Double-Shot"
+      },
+      {
+        "key": "Mount",
+        "value": "Gasket Plate"
+      },
+      {
+        "key": "Lighting",
+        "value": "Per-key RGB"
+      },
+      {
+        "key": "Cable",
+        "value": "USB-C Braided"
+      }
+    ],
+    "features": [
+      "Hot-swap",
+      "RGB",
+      "PBT Keycaps",
+      "Wired",
+      "USB-C"
+    ],
+    "description": "VELO MKB is built for precision. Hot-swappable switches, PBT double-shot keycaps, and gasket-mounted plate combine for a typing experience that's as satisfying as it is reliable.",
+    "ratingBreakdown": {
+      "5": 780,
+      "4": 140,
+      "3": 42,
+      "2": 14,
+      "1": 10
+    },
+    "ratingTags": [
+      "Premium Sound",
+      "Smooth Typing",
+      "Hot-swap is Great",
+      "Excellent Build"
+    ],
+    "reviews": [
+      {
+        "author": "Alex H.",
+        "rating": 5,
+        "title": "Endgame keyboard",
+        "text": "The typing feel on brown switches is incredible. Best keyboard I've ever owned. Sounds amazing.",
+        "date": "6 days ago",
+        "helpful": 28,
+        "images": [
+          "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=200&q=70"
+        ]
+      },
+      {
+        "author": "Nina P.",
+        "rating": 5,
+        "title": "Hot-swap is a game changer",
+        "text": "Hot-swap feature is brilliant. Tried 4 different switches already! Build quality is exceptional.",
+        "date": "2 weeks ago",
+        "helpful": 17,
+        "images": [
+          "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=200&q=70",
+          "https://images.unsplash.com/photo-1595044426077-d36d9236d44a?w=200&q=70"
+        ]
+      },
+      {
+        "author": "Ravi S.",
+        "rating": 5,
+        "title": "Worth 3x the price",
+        "text": "Build quality is insane for the price. Sounds better than boards costing 3x more. Zero regrets.",
+        "date": "3 weeks ago",
+        "helpful": 22,
+        "images": []
+      }
+    ],
+    "deliveryDate": "Thu, 12 Jun",
+    "deliveryPin": "623514",
+    "similarProducts": [
+      3
+    ]
+  }
+]
